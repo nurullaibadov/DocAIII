@@ -1,0 +1,6 @@
+@DocAi.API_HostAddress = http://localhost:5212
+
+GET {{DocAi.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
